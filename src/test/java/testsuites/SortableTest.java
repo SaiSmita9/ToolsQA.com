@@ -2,9 +2,8 @@ package testsuites;
 
 import org.testng.annotations.Test;
 
-import mainclasses.Homepage;
 
-public class Sortable {
+public class SortableTest {
 
 	@Test(priority=0)
 	 public void set() throws Exception {
